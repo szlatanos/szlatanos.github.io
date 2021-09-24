@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://szlatanos.github.io/sitemap.xml
